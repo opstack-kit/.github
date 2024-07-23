@@ -1,4 +1,4 @@
-# README.md
+# Opstack Kit
 
 <div align="center">
   <br>
