@@ -3,7 +3,10 @@
 <div align="center">
   <br>
   <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/176029081?s=200&v=4" title="Logo" alt="Logo" width="200" height="200"/> <br><br>
+    <a href="https://opstack-kit.pages.dev">
+      <img src="https://avatars.githubusercontent.com/u/176029081?s=200&v=4" title="Logo" alt="Logo" width="200" height="200"/>
+    </a> 
+    <br><br>
     <a href="https://linktr.ee/nid_z"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&center=true&repeat=false&random=false&width=435&lines&color=F70000&width=435&lines=Opstack+Kit" alt="Typing SVG" /></a> <br>
   </div>
   <p>npm i opstack-kit | is a toolkit for all upgrades. To easily connect and interact with the OP-Stack (Superchain)</p>
