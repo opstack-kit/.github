@@ -21,7 +21,7 @@
   
 | Package            | Type                                                   | Version | Install |
 |--------------------|--------------------------------------------------------|---------|---------|
-| Opstack Kit        | Bridging hooks for OP Stack Chains                     | [![npm version](https://badge.fury.io/js/opstack-kit.svg)](https://badge.fury.io/js/opstack-kit) | `npm i opstack-kit` [View Docs](https://opstack-kit.pages.dev) |
-| Opstack Kit Chains | Support your OP-Stack network with "opstack-kit"       | [![npm version](https://badge.fury.io/js/opstack-kit-chains.svg)](https://badge.fury.io/js/opstack-kit-chains) | `npm i opstack-kit-chains` [View Docs](https://opstack-kit.pages.dev/docs/opstack-kit-chains.html) |
+| [Opstack Kit](https://github.com/opstack-kit/opstack-kit)        | Bridging hooks for OP Stack Chains                     | [![npm version](https://badge.fury.io/js/opstack-kit.svg)](https://badge.fury.io/js/opstack-kit) | `npm i opstack-kit` [View Docs](https://opstack-kit.pages.dev) |
+| [Opstack Kit Chains](https://github.com/opstack-kit/opstack-kit-chains) | Support your OP-Stack network with "opstack-kit"       | [![npm version](https://badge.fury.io/js/opstack-kit-chains.svg)](https://badge.fury.io/js/opstack-kit-chains) | `npm i opstack-kit-chains` [View Docs](https://opstack-kit.pages.dev/docs/opstack-kit-chains.html) |
 
 </div>
