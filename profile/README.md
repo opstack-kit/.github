@@ -9,6 +9,7 @@
     <br><br>
     <a href="https://x.com/opstackkit/status/1815366835715682495"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&center=true&repeat=false&random=false&width=435&lines&color=F70000&width=435&lines=Opstack+Kit" alt="Typing SVG" /></a> <br>
   </div>
+  <b>Bridging hooks for OP Stack Chains</b>
   <p>npm i opstack-kit | is a toolkit for all upgrades. To easily connect and interact with the OP-Stack (Superchain)</p>
   <br>
   <b>Inspired by&nbsp;
@@ -21,7 +22,6 @@
   
 | Package            | Type                                                   | Version | Install |
 |--------------------|--------------------------------------------------------|---------|---------|
-| [Opstack Kit](https://github.com/opstack-kit/opstack-kit)        | Bridging hooks for OP Stack Chains                     | [![npm version](https://badge.fury.io/js/opstack-kit.svg)](https://badge.fury.io/js/opstack-kit) | `npm i opstack-kit` [View Docs](https://opstack-kit.pages.dev) |
-| [Opstack Kit Chains](https://github.com/opstack-kit/opstack-kit-chains) | Support your OP-Stack network with "opstack-kit"       | [![npm version](https://badge.fury.io/js/opstack-kit-chains.svg)](https://badge.fury.io/js/opstack-kit-chains) | `npm i opstack-kit-chains` [View Docs](https://opstack-kit.pages.dev/docs/opstack-kit-chains.html) |
+| [Opstack Kit](https://github.com/opstack-kit/opstack-kit)        | `/chains` [code](https://github.com/opstack-kit/opstack-kit/tree/main/src/chains), [how](https://opstack-kit.pages.dev/docs/types/chains.html) | [![npm version](https://badge.fury.io/js/opstack-kit.svg)](https://badge.fury.io/js/opstack-kit) | `npm i opstack-kit` [View Docs](https://opstack-kit.pages.dev) |
 
 </div>
