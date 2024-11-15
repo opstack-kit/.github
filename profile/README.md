@@ -23,6 +23,6 @@
   
 | Package            | Type                                                   | Version | Install |
 |--------------------|--------------------------------------------------------|---------|---------|
-| [Opstack Kit](https://github.com/opstack-kit/opstack-kit)        | `/chains` [code](https://github.com/opstack-kit/opstack-kit/tree/main/src/chains), [how](https://opstack-kit.pages.dev/docs/types/chains.html) | [![npm version](https://badge.fury.io/js/opstack-kit.svg)](https://badge.fury.io/js/opstack-kit) | `npm i opstack-kit` [View Docs](https://opstack-kit.pages.dev) |
+| [Opstack Kit](https://github.com/opstack-kit/opstack-kit)        | `/chains` [code](https://github.com/opstack-kit/opstack-kit/tree/main/src/chains), [how](https://opstack-kit.pages.dev/docs/types/chains.html) | [![npm version](https://badge.fury.io/js/opstack-kit.svg)](https://badge.fury.io/js/opstack-kit) | `npm i -g opstack-kit` [View Docs](https://opstack-kit.pages.dev) |
 
 </div>
