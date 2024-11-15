@@ -14,6 +14,7 @@
   <br>
   <b>Inspired by&nbsp;
     <img src="https://github.com/opstack-kit/.github/blob/main/base.png" title="Base" alt="Base" width="30" height="30"/>&nbsp;, 
+    <img src="https://avatars.githubusercontent.com/u/99892494?s=48&v=4" title="Foundry" alt="Foundry" width="32" height="32"/>&nbsp;, 
     <img src="https://github.com/opstack-kit/.github/blob/main/wagmi.png" title="Wagmi" alt="Wagmi" width="30" height="30"/>&nbsp; + 
     <img src="https://github.com/opstack-kit/.github/blob/main/viem.png" title="Viem" alt="Viem" width="30" height="30"/>&nbsp; and &nbsp;
     <img src="https://github.com/opstack-kit/.github/blob/main/op.png" title="Optimism" alt="Optimism" width="30" height="30"/>&nbsp;.</b>
